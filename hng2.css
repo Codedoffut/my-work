@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family:  Roboto, 'Segoe UI', Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+.row{
+    background-image: url(./wallpaper.png);
+    background-size: cover;
+    height: 100vh;
+}
+.pic{
+   display: flex;
+   background:  #E5E5E5;
+   background-blend-mode: overlay;
+   background-color: rgba(0, 0, 0, 0.9); 
+   color: bisque;
+   font-size: 10px;
+}
+.mine{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+}
+.doll{
+    margin: 20px;
+}
+.st1{
+    padding: 20px;
+    margin-left: 20px;
+}
+.line{
+    display: flex;
+    background:  #E5E5E5;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.9); 
+}
+.yes:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+.all{
+    display: flex;
+    position: absolute;
+    right: 0;
+    color: white;
+}
+.bolt{
+    border-color: yellow;
+    width: 130%;
+    height: 4vh;
+    color: yellow;
+    background-color: black;
+}
+.yes{
+    margin: 40px;
+    color: white;
+}
+.hng{
+    padding: 20px;
+}
+.rate{
+    text-align: center;
+     position: absolute;
+     padding: 15%;
+     padding-left: 36%;
+}
+.dine{
+    position: absolute;
+    bottom: 15px;
+    background-color: black;
+    margin-left: 30%;
+}
+.asa{
+    margin: -3px;
+}
+.row1{
+ background:  #E5E5E5;
+ background-blend-mode: overlay;
+ background-color: rgba(0, 0, 0, 0.9);
+background-image: url(./wold\ 1.png);
+display: flex;
+color: white;
+padding-left: 100px;
+padding-top: 40px;
+}
+.rol1{
+    color: white;
+    margin-right: 70px; 
+}
+.rite{
+    border: 2px solid white;
+}
+.roll2{
+    color: white;
+    margin-right: 200px;
+}
+#yes{
+    margin-right: 20px;  
+
+}
+.rol4,.rol7,.rowl2{
+    background:  #E5E5E5;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.9);
+   background-image: url(./wold\ 1.png);
+   display: flex;
+   color: white;
+   padding-left: 100px;
+   padding-top: 40px;
+}
+.rol5,.rol8,.rol10{
+   margin-right: 70px; 
+}
+.roll3{ 
+position: absolute;
+right: 0;
+top: 0;
+margin-top: 50%;
+color: white;
+margin-right: 50px;
+background-color: black;
+text-align: center;
+
+}
+.boy{
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 105%;
+    color: white;
+    margin-right: 60px;
+}
+.lola{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 40%;
+}
+.ruler{
+    background:  #E5E5E5;
+ background-blend-mode: overlay;
+ background-color: rgba(0, 0, 0, 0.9); 
+}
+.lp{
+    display: flex;
+    background: black;
+    color: white;
+    height: 50vh;
+    text-decoration: none;
+    width: 100%;
+    padding-top:60px;
+}
+.mylist,.catr,.kont{
+    padding-left: 130px;
+    width: 70%;
+}
+.mayl{
+    padding-left: 100px;
+    width: 100%;
+}
+.brit{
+    width: 30%;
+    z-index: 1;
+    margin: -4px;
+    border-left: hidden;
+}
+
+
+
+
+
+
+
+
+

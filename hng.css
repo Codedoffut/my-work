@@ -1,0 +1,281 @@
+@font-face {
+    font-family:Herr Von Muellerhoff ;
+    src: url(./HerrVonMuellerhoff-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family:  Roboto, 'Segoe UI', Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+.row{
+    background-image: url(./Rectangle\ 3.png);
+    background-size: cover;
+    height: 120vh;
+}
+.pic{
+   display: flex;
+   color: burlywood;
+   background-color: black;
+   font-size: 10px;
+}
+.mine{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+}
+.doll{
+    margin: 20px;
+}
+.st1{
+    padding: 20px;
+    margin-left: 20px;
+}
+.line{
+    display: flex;
+    background-color: black;
+}
+.all{
+    display: flex;
+    position: absolute;
+    right: 0;
+    color: white;
+   
+}
+.yes{
+    margin: 40px;
+    color: white;
+}
+.hng{
+    padding: 20px;
+}
+.hnhh{
+    font-family: Herr Von Muellerhoff;
+    font-size: 140px;
+    font-weight: 100;
+}
+.bolt{
+    border-color: yellow;
+    width: 130%;
+    height: 4vh;
+    color: yellow;
+    background-color: black;
+}
+.yes:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+.book{
+    text-align: center;
+    margin-top: 10%;   
+}
+.spoon{
+    font-size: 200%;
+}
+.today{
+    color: white;
+}
+.done{
+    margin-top: 60px;
+    padding-bottom: 80px;
+    
+}
+h1{
+    margin-bottom: 20px;
+}
+#asa{
+    margin: -3px;
+}
+.mystic{
+    display: flex;
+    color: white;  
+    margin-top: 150px;
+    margin: 30px;
+    background: black;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.imag{
+    margin-left: 20%;
+}
+.imagg{
+    margin-left: 10%;
+}
+.ptag{
+    margin-top: 40px;
+}
+.boo{
+    background-color: black;
+    height: 100vh;
+}
+.boo1{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+.java{
+   display: flex;
+   padding-left: 170px;
+   padding-top: 50px;
+   display: none;
+}
+.joy{
+    margin-left: 30px;
+    
+}
+.save,.safe{
+    margin-left: 30px;
+}
+.best{
+    background: url(./Rectangle\ 44.png);
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.789);
+    height: 100vh;
+}
+.room{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.gro{
+    color: white;
+    border: 2px solid white;
+    width: 21.7%;
+    height: 70vh; 
+    margin-left: 200px;
+}
+.groo{
+    padding-top: 40px;
+    display: flex;
+    color: white;
+}
+.hh{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.spa{
+    font-size: 13px;
+    padding-left: 20px;
+}
+.nana{
+    margin-top: 28px;
+    margin-left: 40px;
+    width: 250px;
+    background-color: black;
+    color: yellow;
+    border: 1px solid yellow;
+    height: 5vh;
+}
+.groove{
+    color: white;
+    border: 2px solid white;
+    width: 21.7%;
+    height: 70vh; 
+    margin-left: 30px;
+}
+.nan{
+    margin-top: 47px;
+    margin-left: 40px;
+    width: 250px;
+    background-color: black;
+    color: yellow;
+    border: 1px solid yellow;
+    height: 5vh; 
+}
+.groovy{
+    color: white;
+    border: 2px solid white;
+    width: 21.7%;
+    height: 70vh; 
+    margin-left: 30px;
+}
+.dot{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   margin-top: 40px;
+}
+.dot:hover {
+    background-color: yellow;
+}
+.deluxe{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 120px;
+    background: url(./Rectangle\ 17.png);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.qwe{
+    position: absolute;
+    opacity: 0.8;
+    padding-top: 130px;
+}
+.wer{
+  z-index: 9; 
+  margin: 80px;
+}
+.ert{
+    position: absolute;
+    padding-top: 130px; 
+   margin-left: 22%;
+}
+.star{
+    color: white;
+    padding-left: 200px;
+}
+.dota{
+    color: yellow;
+}
+.dota{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+   margin-top: 40px;
+   }
+   .dota:hover {
+    background-color: yellow;
+}
+.lp{
+    display: flex;
+    background: black;
+    color: white;
+    height: 50vh;
+    text-decoration: none;
+    width: 100%;
+}
+.mylist,.catr,.kont{
+    padding-left: 130px;
+    width: 70%;
+}
+.mayl{
+    padding-left: 100px;
+    width: 100%;
+}
+.brit{
+    width: 30%;
+    z-index: 1;
+    margin: -4px;
+    border-left: hidden;
+}
+
+
+
+
